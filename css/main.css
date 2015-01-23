@@ -1,0 +1,33 @@
+html {
+  background-color: #9e94dc;
+}
+
+h1 {
+  font-weight: normal; /* normal, bold */
+  font-size: 5rem; /* 16 x 5rem is the font size */
+  font-style: italic;
+  text-decoration: underline; /* underline, line-through */
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
+}
+
+ol {
+  list-style-type: circle;
+  padding: 0;
+}
+
+li {
+  font-weight: bold;
+  }
+
+  .stego {
+    color: #ffffff;
+  }
+
+a {
+  color: purple;
+  }
+
+a:hover {
+  color: white;
+}
